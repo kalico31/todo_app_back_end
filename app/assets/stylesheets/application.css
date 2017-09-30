@@ -35,3 +35,8 @@ h2{
   width: 60px;
   background-color: #F44336;
 }
+li div {
+  padding: 20px;
+  font-size: 19px;
+  font-family: Comic Sans MS;
+}
